@@ -30,16 +30,18 @@ fix: corregir validación del formulario
 docs: actualizar guía de despliegue
 ```
 
+- Los PRs se integran con **squash merge** y la rama se elimina tras el merge.
+
 ## 4. Estándares de código
 
 - Sigue el stack y la estructura de carpetas del proyecto.
-- Ejecuta linter y build del proyecto antes de abrir el PR.
+- Verifica el build del proyecto antes de abrir el PR (`npm run build` para proyectos Next.js).
 - No incluyas rutas locales del equipo, secretos ni archivos de entorno (`.env*`).
 
 ## 5. Definición de "Listo" (Definition of Done)
 
 - [ ] Código probado en local.
-- [ ] Lint y build sin errores.
+- [ ] Build sin errores.
 - [ ] Documentación relevante actualizada (README / CHANGELOG).
 - [ ] Sin secretos ni datos sensibles en el diff.
 

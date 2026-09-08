@@ -39,6 +39,7 @@ Nuestro ecosistema principal es **[Gex Club](https://gexclub.novatechdevelopment
 | Proyecto | Descripción | Categoría | Repositorio |
 |---|---|---|---|
 | **Gex Club — Sitio Oficial** | Sitio web del ecosistema: comunidad, hackathons, proyectos y alianzas. | Web / Comunidad | [GexClub-Page](https://github.com/GexStudio-Team/GexClub-Page) |
+| **GEX_OS** | Terminal interactiva integrada en la web de Gex Club: explora proyectos con comandos, neofetch y modo matrix. | Web / Experiencia | [GexClub-Page](https://github.com/GexStudio-Team/GexClub-Page) |
 | **NovaVice OS97** | Asistente de admisiones con IA e interfaz retro, RAG híbrido (FastAPI + Next.js). | Software / IA | [NovaVice_os97](https://github.com/nastex123/NovaVice_os97) |
 | **CodeQuest** | Plataforma educativa gamificada de micro-lecciones para aprender a programar. | Software / Educación | [DuolingoProgramacion](https://github.com/nastex123/DuolingoProgramacion) |
 | **Snake Love2D** | Dungeon crawler táctico con biomas procedurales y estética arcade cyberpunk. | Videojuego | [Snake-with-Love2D](https://github.com/nastex123/Snake-with-Love2D) |
@@ -51,7 +52,7 @@ Nuestro ecosistema principal es **[Gex Club](https://gexclub.novatechdevelopment
 
 Reto presencial de un día para idear y construir soluciones tecnológicas junto a otros jóvenes creadores. **Sábado 3 de octubre de 2026** · 8:30 a. m. – 3:00 p. m.
 
-> 📝 Inscripciones abiertas: [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSf-oD62OK8vyiD1NCyAAsXEmdALE19RfgJ6PLlOHD0jriXcVQ/viewform?usp=publish-editor)
+> **Inscripciones abiertas:** [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSf-oD62OK8vyiD1NCyAAsXEmdALE19RfgJ6PLlOHD0jriXcVQ/viewform?usp=publish-editor)
 
 ---
 
